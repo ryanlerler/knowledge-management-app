@@ -1,0 +1,32 @@
+/* src/components/KnowledgeForm.css */
+.knowledge-form {
+    margin: 20px;
+  }
+  
+  .knowledge-form input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+
+  .knowledge-list select {
+    width: 200px; /* Set a fixed width for the dropdown */
+    padding: 5px;
+    margin-right: 10px;
+  }
+  
+  .knowledge-form button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  .knowledge-form button:hover {
+    background-color: #45a049;
+  }
+  
